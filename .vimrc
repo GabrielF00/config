@@ -12,3 +12,6 @@ set smarttab
 
 " always use spaces instead of tab characters
 set expandtab
+
+" syntax highlighting
+syntax on
