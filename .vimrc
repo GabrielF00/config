@@ -15,3 +15,9 @@ set expandtab
 
 " syntax highlighting
 syntax on
+
+" set the terminal's title
+set title
+
+" automatically indent new lines
+set autoindent
